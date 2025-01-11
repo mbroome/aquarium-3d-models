@@ -17,7 +17,7 @@ The provided stl files are as follows:
 ## Sponge filter top replacement
 If you are going to replace the top of your sponge filter, you will want to print out the 'sponge-filter-top.stl' model.  I print it sitting flat on it's base with supports around the outside flange.
 
-In addition to the printed model, you will also need a short section of rigid airline tubing and an airstone.  I get the [airstone from Amazon](https://www.amazon.com/gp/product/B08625FMPD).  I also use 3/16" tubing I get off [airline tubing Amazon](https://www.amazon.com/gp/product/B07K8XCDSD).  I cut the tubing to about 3/4" long and press it down into the hole on the side of the sponge filter top.
+In addition to the printed model, you will also need a short section of rigid airline tubing and an airstone.  I get the [airstone from Amazon](https://www.amazon.com/gp/product/B08625FMPD).  I also use 3/16" [airline tubing from Amazon](https://www.amazon.com/gp/product/B07K8XCDSD).  I cut the tubing to about 3/4" long and press it down into the hole on the side of the sponge filter top.
 
 ## Sponge filter elbow
 For the elbow, I print the model with the grate facing down on the bed and use organic supports.
