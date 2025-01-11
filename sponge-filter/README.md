@@ -2,7 +2,7 @@
 
 There are 4 available 3d models here meant to upgrade cheap off the shelf sponge filters.  You will typically see these filters availabe under names like 'XY-380' and 'XY-280' though many manufactures use this same design with thier own branding.
 
-You can see the upgrades in action on [youtube](https://www.youtube.com/watch?v=pLT5eeX4kF4) as well as how to make the modifications to your sponge filter.
+You can see the upgrades in action on [here on youtube](https://www.youtube.com/watch?v=pLT5eeX4kF4) as well as how to make the modifications to your sponge filter.
 
 All of these models are printed with PETG as it is much more stable over a long time when fully submerged than something like PLA.  I'm sure other filament types would also be fine, though I have not tested them for extended timeframes (year+) like I have with PETG.
 
@@ -26,4 +26,7 @@ For the elbow, I print the model with the grate facing down on the bed and use o
 If you want to replace the uplift pipe of the sponge filter, you will need a 20mm tube.  I use the following [20mm tube from Amazon](https://www.amazon.com/dp/B0B6QB6FY4).  This tube has an outside diameter of 20mm and an inside diameter of 18mm.
 
 If you want to make the adjustable version, you will also need a 18mm tube.  I use this [18mm tube from Amazon](https://www.amazon.com/dp/B0B6Q6LRBQ).
+
+If are using the adjustable uplift pipe, you will also want to print the tube-colar.stl model that helps keep the fit of the 18mm to 20mm tubes stay together better.  If you are also wanting to use the elbow, you will want to print the elbow-adaptor.stl model that adapts the 18mm tube to the 20mm elbow.
+
 
